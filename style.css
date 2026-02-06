@@ -71,3 +71,11 @@ footer {
 .contato:hover {
   background: #cfe6db;
 }
+.contato {
+  background: #e6f2ec;
+  color: #0f3d2e;
+}
+
+.comunicado:hover {
+  background: #cfe6db;
+}
