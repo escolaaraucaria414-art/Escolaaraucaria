@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Contato - Escola Municipal Araucária</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+
+
+
+    <h1>Contato</h1>
+    <p>Escola Municipal Araucária</p>
+
+    <a href="mailto:escolaaraucaria@gmail.com" class="link">
+      📧 escolaaraucaria@gmail.com
+    </a>
+
+    <a href="mailto:secretariaescolaaraucaria@gmail.com" class="link">
+      📧 secretariaescolaaraucaria@gmail.com
+    </a>
+
+    <a href="tel:+553534332039" class="link">
+      📞 (35) 3433-2039
+    </a>
+
+    <a href="https://maps.apple/p/UXHT9dz7IoHZBg"
+       class="link"
+       target="_blank">
+      📍 Ver no Google Maps
+    </a>
+
+    <a href="index.html" class="link">
+      ⬅️ Voltar
+    </a>
+
+  </div>
+
+</body>
+</html>
+Insexx
